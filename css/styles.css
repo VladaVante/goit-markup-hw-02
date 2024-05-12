@@ -44,7 +44,7 @@ body {
    color: #404BBF;
 }
    
-.header-menu .header-link:active {
+.header-menu .header-link:focus {
    color: #404bbf;
 }
 
@@ -100,7 +100,7 @@ body {
    background-color: #404BBF;
 }
 
-.button:active {
+.button:focus {
    background-color: #404BBF;
 }
 
@@ -133,6 +133,7 @@ body {
    letter-spacing: 0.02em;
    text-align: center;
    text-transform: capitalize;
+   color: #2E2F42;
 }
 
 .team-menu {
@@ -165,6 +166,7 @@ body {
    letter-spacing: 0.02em;
    text-align: center;
    text-transform: capitalize;
+   color: #2E2F42;
 }
 
 .portfolio-menu {
